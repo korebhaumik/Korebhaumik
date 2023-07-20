@@ -21,7 +21,7 @@
 - 😊 A passionate Full-Stack Developer.
 - 👨🏻‍💻 Primarily working with ReactJS, NodeJS and typescript.
 - 📫 How to reach me [bhaumik.kore31@gmail.com](mailto:bhaumik.kore31@gmail.com)
-- 🤝 I’m currently open for an intern or freelancing opportunity, this is my [resume](http://localhost:1235)
+- 🤝 I’m currently open for an intern or freelancing opportunity, this is my [resume](https://drive.google.com/file/d/1okozTHvhC3VLPsBf8FdbO6f0iYAsCAOn/view?usp=sharing)
 
 <br><br>
 

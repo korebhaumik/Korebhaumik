@@ -1,4 +1,7 @@
-![Profile-views](https://komarev.com/ghpvc/?username=korebhaumik&color=blue&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=korebhaumik&color=blue&style=for-the-badge&label=VIEWS)
+
+
+
 <h1><b>Hi , I'm Bhaumik Kore!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=25&width=600&height=100&lines=Full-Stack+Web+Developer.+.+.;Data+Science+Undergraduate+Student"></a>
